@@ -1,1 +1,1 @@
-# project-alpha
+# slider component
